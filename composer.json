@@ -1,12 +1,12 @@
 {
-    "name": "jovix/dataforseo-clientv3",
-    "description": "PHP Client for DataForSeo",
+    "name": "sergeyugai/dataforseo-clientv3",
+    "description": "PHP Client for DataForSeo API v3",
     "minimum-stability": "dev",
     "license": "Apache-2.0",
     "require": {
         "php": ">=7.1",
         "guzzlehttp/guzzle": "^6.3",
-        "symfony/var-dumper": "^4.1",
+        "symfony/var-dumper": "^5.1",
         "ext-json": "*"
     },
     "authors": [
